@@ -1,1 +1,1 @@
-# hidden-search-project
+# hidden-search-mini-project
